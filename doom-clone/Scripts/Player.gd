@@ -2,7 +2,7 @@ extends KinematicBody
 
 
 const MOVE_SPEED = 4
-const MOUSE_SENS = 0.5
+const MOUSE_SENS = 0.1
 
 onready var anim_player = $AnimationPlayer
 onready var raycast = $RayCast
