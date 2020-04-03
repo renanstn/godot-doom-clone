@@ -1,5 +1,14 @@
 # Doom Clone
+
 Projeto de um jogo ao estilo Doom.
+
+Neste projeto aprendi:
+- Alguns conceitos básicos de jogos FPS na Godot
+- Grupos de inimigos
+- Script simples para inimigo perseguir o player
+- Tiros em FPS com raycast
+- Conceito de **Billboard**, que é o efeito aplicado nos inimigos e objetos para que estes sempre "olhem" para a câmera. Simulando assim os sprites 2D no mundo 3D de Doom
+- Tilemaps
 
 ## Tutoriais
 
